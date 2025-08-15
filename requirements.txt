@@ -2,4 +2,3 @@ networkx
 streamlit
 matplotlib
 snakes
-time
